@@ -1,0 +1,1142 @@
+[
+  {
+    "page": 1,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Tamil Nadu Soil Fertility Mission",
+        "type": "Scheme",
+        "details": "Aims to restore soil health and improve crop productivity."
+      },
+      {
+        "name": "₹122.51 crore",
+        "type": "Amount",
+        "details": "Budget for the Tamil Nadu Soil Fertility Mission for 2026–27."
+      },
+      {
+        "name": "₹600 crore",
+        "type": "Amount",
+        "details": "Total five-year plan budget for the Tamil Nadu Soil Fertility Mission."
+      },
+      {
+        "name": "₹4 crore",
+        "type": "Amount",
+        "details": "State funds for Soil Health Cards for one lakh farmers."
+      },
+      {
+        "name": "₹6.16 crore",
+        "type": "Amount",
+        "details": "Union-State funding for Soil Health Cards for about three lakh farmers."
+      },
+      {
+        "name": "₹63.50 crore",
+        "type": "Amount",
+        "details": "Allocation for green manure ploughing subsidy."
+      },
+      {
+        "name": "₹4.50 crore",
+        "type": "Amount",
+        "details": "Funding for liquid bio-fertilisers for one lakh acres."
+      },
+      {
+        "name": "₹12.38 crore",
+        "type": "Amount",
+        "details": "Funding for water-soluble fertilisers and boosters."
+      },
+      {
+        "name": "₹8 crore",
+        "type": "Amount",
+        "details": "State scheme funding for organic farming incentive."
+      },
+      {
+        "name": "₹9.12 crore",
+        "type": "Amount",
+        "details": "Funding under PKVY and the National Mission on Natural Farming."
+      },
+      {
+        "name": "₹10 crore",
+        "type": "Amount",
+        "details": "Funding for permanent vermicompost units."
+      },
+      {
+        "name": "₹2 crore",
+        "type": "Amount",
+        "details": "Funding for alkali/saline soil reclamation demonstrations."
+      },
+      {
+        "name": "₹60 lakh",
+        "type": "Amount",
+        "details": "Funding for carbon trading demonstrations."
+      },
+      {
+        "name": "PKVY",
+        "type": "Scheme",
+        "details": "Related programme linkage to the Tamil Nadu Soil Fertility Mission."
+      },
+      {
+        "name": "National Mission on Natural Farming",
+        "type": "Scheme",
+        "details": "Related programme linkage to the Tamil Nadu Soil Fertility Mission."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_BUDGET",
+        "target": "₹122.51 crore",
+        "details": "Budget for the mission for 2026–27."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_TOTAL_BUDGET",
+        "target": "₹600 crore",
+        "details": "Total five-year plan budget."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹4 crore",
+        "details": "Funding for Soil Health Cards for one lakh farmers."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹6.16 crore",
+        "details": "Funding for Soil Health Cards for about three lakh farmers."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_ALLOCATION",
+        "target": "₹63.50 crore",
+        "details": "Allocation for green manure ploughing subsidy."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹4.50 crore",
+        "details": "Funding for liquid bio-fertilisers."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹12.38 crore",
+        "details": "Funding for water-soluble fertilisers and boosters."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹8 crore",
+        "details": "Funding for organic farming incentive."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹9.12 crore",
+        "details": "Funding under PKVY and the National Mission on Natural Farming."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹10 crore",
+        "details": "Funding for permanent vermicompost units."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹2 crore",
+        "details": "Funding for alkali/saline soil reclamation."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹60 lakh",
+        "details": "Funding for carbon trading demonstrations."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_PROGRAM_LINKAGE",
+        "target": "PKVY",
+        "details": "Related programme linkage."
+      },
+      {
+        "source": "Tamil Nadu Soil Fertility Mission",
+        "type": "HAS_PROGRAM_LINKAGE",
+        "target": "National Mission on Natural Farming",
+        "details": "Related programme linkage."
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Uzhavar Artificial Intelligence (AI) Scheme",
+        "type": "Scheme",
+        "details": "An AI- and ML-enabled agricultural advisory scheme for farmers."
+      },
+      {
+        "name": "₹2 crore",
+        "type": "Amount",
+        "details": "Allocation from State funds for 2026–27."
+      },
+      {
+        "name": "Agricultural Intelligence and Market Excellence Centre (AIMEC)",
+        "type": "Scheme",
+        "details": "Related initiative with an allocation of ₹4 crore."
+      },
+      {
+        "name": "TNPSC",
+        "type": "Organization",
+        "details": "Quoted line about the importance of timely information for farmers."
+      },
+      {
+        "name": "TN SPARK",
+        "type": "Other",
+        "details": "Grouped with Uzhavar AI in the supplied material."
+      },
+      {
+        "name": "Arivagam AI initiative",
+        "type": "Other",
+        "details": "Grouped with Uzhavar AI in the supplied material."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Uzhavar Artificial Intelligence (AI) Scheme",
+        "type": "ALLOCATED_AMOUNT",
+        "target": "₹2 crore",
+        "details": "Allocation from State funds for the scheme."
+      },
+      {
+        "source": "Uzhavar Artificial Intelligence (AI) Scheme",
+        "type": "RELATED_TO",
+        "target": "Agricultural Intelligence and Market Excellence Centre (AIMEC)",
+        "details": "AIMEC is a related initiative with a different focus."
+      },
+      {
+        "source": "Uzhavar Artificial Intelligence (AI) Scheme",
+        "type": "GROUPED_WITH",
+        "target": "TNPSC",
+        "details": "Grouped with TNPSC in the context of timely information."
+      },
+      {
+        "source": "Uzhavar Artificial Intelligence (AI) Scheme",
+        "type": "GROUPED_WITH",
+        "target": "TN SPARK",
+        "details": "Grouped with TN SPARK in the supplied material."
+      },
+      {
+        "source": "Uzhavar Artificial Intelligence (AI) Scheme",
+        "type": "GROUPED_WITH",
+        "target": "Arivagam AI initiative",
+        "details": "Grouped with Arivagam AI in the supplied material."
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Annal Ambedkar Agricultural Assistance Scheme",
+        "type": "Scheme",
+        "details": "Supports Scheduled Caste and Scheduled Tribe farmers by reducing contribution burdens and providing irrigation infrastructure."
+      },
+      {
+        "name": "₹56.72 crore",
+        "type": "Amount",
+        "details": "Allocation from State funds for 2026–27."
+      },
+      {
+        "name": "Scheduled Caste and Scheduled Tribe farmers",
+        "type": "Target",
+        "details": "Primary beneficiaries of the scheme."
+      },
+      {
+        "name": "80% subsidy",
+        "type": "Eligibility",
+        "details": "For installing solar-powered pump sets under specified schemes."
+      },
+      {
+        "name": "100% subsidy",
+        "type": "Eligibility",
+        "details": "For bore wells/tube wells for 300 SC/ST farmers without irrigation access."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Annal Ambedkar Agricultural Assistance Scheme",
+        "type": "ALLOCATES",
+        "target": "₹56.72 crore",
+        "details": "Funds allocated for the scheme."
+      },
+      {
+        "source": "Annal Ambedkar Agricultural Assistance Scheme",
+        "type": "TARGETS",
+        "target": "Scheduled Caste and Scheduled Tribe farmers",
+        "details": "Scheme aims to support these farmers."
+      },
+      {
+        "source": "Annal Ambedkar Agricultural Assistance Scheme",
+        "type": "PROVIDES",
+        "target": "80% subsidy",
+        "details": "For solar-powered pump sets."
+      },
+      {
+        "source": "Annal Ambedkar Agricultural Assistance Scheme",
+        "type": "PROVIDES",
+        "target": "100% subsidy",
+        "details": "For bore wells/tube wells for specific farmers."
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Cotton Renaissance Mission",
+        "type": "Scheme",
+        "details": "A five-year mission from 2026–27 to raise cotton production."
+      },
+      {
+        "name": "₹27.21 crore",
+        "type": "Amount",
+        "details": "Funding for 2026–27 from Union and State Government."
+      },
+      {
+        "name": "73,360 acres",
+        "type": "Coverage",
+        "details": "Area covered in the first year."
+      },
+      {
+        "name": "40,000 cotton farmers",
+        "type": "Beneficiaries",
+        "details": "Number of farmers benefiting in the first year."
+      },
+      {
+        "name": "High-Density Planting System (HDPS)",
+        "type": "Technology",
+        "details": "One of the technologies used in the mission."
+      },
+      {
+        "name": "Ultra High-Density Planting System (UHDPS)",
+        "type": "Technology",
+        "details": "Another technology used in the mission."
+      },
+      {
+        "name": "Integrated Crop Management",
+        "type": "Technology",
+        "details": "A technology applied in the mission."
+      },
+      {
+        "name": "Extra Long Staple (ELS) cotton cultivation",
+        "type": "Practice",
+        "details": "An additional practice in the mission."
+      },
+      {
+        "name": "Tamil Nadu",
+        "type": "Other",
+        "details": "State accounting for significant textile sector figures."
+      },
+      {
+        "name": "120 lakh bales",
+        "type": "Amount",
+        "details": "Required by Tamil Nadu's mills."
+      },
+      {
+        "name": "3.14 lakh acres",
+        "type": "Coverage",
+        "details": "Local cultivation area."
+      },
+      {
+        "name": "2.50 lakh bales",
+        "type": "Amount",
+        "details": "Production from local cultivation."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Cotton Renaissance Mission",
+        "type": "HAS_FUNDING",
+        "target": "₹27.21 crore",
+        "details": "Funding allocated for the mission."
+      },
+      {
+        "source": "Cotton Renaissance Mission",
+        "type": "COVERS",
+        "target": "73,360 acres",
+        "details": "Area covered in the first year."
+      },
+      {
+        "source": "Cotton Renaissance Mission",
+        "type": "BENEFITS",
+        "target": "40,000 cotton farmers",
+        "details": "Number of farmers benefiting from the mission."
+      },
+      {
+        "source": "Cotton Renaissance Mission",
+        "type": "USES_TECHNOLOGY",
+        "target": "High-Density Planting System (HDPS)",
+        "details": "Technology used in the mission."
+      },
+      {
+        "source": "Cotton Renaissance Mission",
+        "type": "USES_TECHNOLOGY",
+        "target": "Ultra High-Density Planting System (UHDPS)",
+        "details": "Technology used in the mission."
+      },
+      {
+        "source": "Cotton Renaissance Mission",
+        "type": "USES_TECHNOLOGY",
+        "target": "Integrated Crop Management",
+        "details": "Technology used in the mission."
+      },
+      {
+        "source": "Cotton Renaissance Mission",
+        "type": "INCLUDES_PRACTICE",
+        "target": "Extra Long Staple (ELS) cotton cultivation",
+        "details": "An additional practice in the mission."
+      },
+      {
+        "source": "Tamil Nadu",
+        "type": "REQUIRES",
+        "target": "120 lakh bales",
+        "details": "Amount required by the state's mills."
+      },
+      {
+        "source": "3.14 lakh acres",
+        "type": "PRODUCES",
+        "target": "2.50 lakh bales",
+        "details": "Production from local cultivation."
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Kuruvai Package Scheme",
+        "type": "Scheme",
+        "details": "A package sanctioned to encourage paddy cultivation in delta and non-delta districts."
+      },
+      {
+        "name": "Mettur Dam",
+        "type": "Other",
+        "details": "Could not be opened for irrigation due to insufficient storage."
+      },
+      {
+        "name": "₹134 crore",
+        "type": "Amount",
+        "details": "Total outlay for the Kuruvai Package Scheme."
+      },
+      {
+        "name": "Kar",
+        "type": "Crop",
+        "details": "One of the seasons for paddy cultivation."
+      },
+      {
+        "name": "Kuruvai",
+        "type": "Crop",
+        "details": "One of the seasons for paddy cultivation."
+      },
+      {
+        "name": "Sornavari",
+        "type": "Crop",
+        "details": "One of the seasons for paddy cultivation."
+      },
+      {
+        "name": "₹7,432 crore",
+        "type": "Amount",
+        "details": "Budget for farmers’ electricity subsidy."
+      },
+      {
+        "name": "₹14,984 crore",
+        "type": "Amount",
+        "details": "Budget for the Agriculture and Farmers’ Welfare Department."
+      },
+      {
+        "name": "₹5,932 crore",
+        "type": "Amount",
+        "details": "Farm loan waiver benefiting 14.43 lakh farmers."
+      },
+      {
+        "name": "14.43 lakh farmers",
+        "type": "Eligibility",
+        "details": "Number of farmers benefiting from the farm loan waiver."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Kuruvai Package Scheme",
+        "type": "HAS_TOTAL_OUTLAY",
+        "target": "₹134 crore",
+        "details": "Total outlay for the scheme."
+      },
+      {
+        "source": "Kuruvai Package Scheme",
+        "type": "COVERS_SEASONS",
+        "target": "Kar",
+        "details": "One of the seasons covered by the scheme."
+      },
+      {
+        "source": "Kuruvai Package Scheme",
+        "type": "COVERS_SEASONS",
+        "target": "Kuruvai",
+        "details": "One of the seasons covered by the scheme."
+      },
+      {
+        "source": "Kuruvai Package Scheme",
+        "type": "COVERS_SEASONS",
+        "target": "Sornavari",
+        "details": "One of the seasons covered by the scheme."
+      },
+      {
+        "source": "Mettur Dam",
+        "type": "AFFECTS",
+        "target": "Kuruvai Package Scheme",
+        "details": "Insufficient storage affected the irrigation schedule."
+      },
+      {
+        "source": "₹7,432 crore",
+        "type": "RELATED_TO",
+        "target": "Kuruvai Package Scheme",
+        "details": "Budget for farmers’ electricity subsidy related to the scheme."
+      },
+      {
+        "source": "₹14,984 crore",
+        "type": "RELATED_TO",
+        "target": "Kuruvai Package Scheme",
+        "details": "Budget for the Agriculture and Farmers’ Welfare Department related to the scheme."
+      },
+      {
+        "source": "₹5,932 crore",
+        "type": "RELATED_TO",
+        "target": "14.43 lakh farmers",
+        "details": "Farm loan waiver amount benefiting the farmers."
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Palmyra Protection Mission",
+        "type": "Other",
+        "details": "A mission intended to protect palmyra trees and support livelihoods."
+      },
+      {
+        "name": "₹2.10 crore",
+        "type": "Amount",
+        "details": "Funding allocated from State funds for 2026–27."
+      },
+      {
+        "name": "Tamil Nadu",
+        "type": "Other",
+        "details": "The state where palmyra is described as the State Tree."
+      },
+      {
+        "name": "Palm Products and Palmyra Development Board",
+        "type": "Organization",
+        "details": "The training body for value-added palmyra products."
+      },
+      {
+        "name": "Palmyra Research Station",
+        "type": "Organization",
+        "details": "Conducts research on dwarf and early-bearing varieties."
+      },
+      {
+        "name": "Tamil Nadu Palmyra Development Corporation",
+        "type": "Organization",
+        "details": "Distinct body with ₹16 crore under the main Budget."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Palmyra Protection Mission",
+        "type": "ALLOCATES",
+        "target": "₹2.10 crore",
+        "details": "Funding allocated for the mission."
+      },
+      {
+        "source": "Palmyra Protection Mission",
+        "type": "SUPPORTS",
+        "target": "Tamil Nadu",
+        "details": "Supports livelihoods connected with palmyra trees in Tamil Nadu."
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "Scheme",
+        "details": "A five-year mission to achieve self-sufficiency in pulses and edible oilseeds."
+      },
+      {
+        "name": "₹203.64 crore",
+        "type": "Amount",
+        "details": "Total outlay and funding from Union and State Government funds."
+      },
+      {
+        "name": "₹65.28 crore",
+        "type": "Amount",
+        "details": "Funding allocated for pulses."
+      },
+      {
+        "name": "₹138.36 crore",
+        "type": "Amount",
+        "details": "Funding allocated for edible oilseeds."
+      },
+      {
+        "name": "Black gram",
+        "type": "Crop",
+        "details": "One of the target pulses for cultivation."
+      },
+      {
+        "name": "Red gram",
+        "type": "Crop",
+        "details": "One of the target pulses for cultivation."
+      },
+      {
+        "name": "Green gram",
+        "type": "Crop",
+        "details": "One of the target pulses for cultivation."
+      },
+      {
+        "name": "Cowpea",
+        "type": "Crop",
+        "details": "One of the target pulses for cultivation."
+      },
+      {
+        "name": "Groundnut",
+        "type": "Crop",
+        "details": "One of the target edible oilseeds for cultivation."
+      },
+      {
+        "name": "Sesame",
+        "type": "Crop",
+        "details": "One of the target edible oilseeds for cultivation."
+      },
+      {
+        "name": "Sunflower",
+        "type": "Crop",
+        "details": "One of the target edible oilseeds for cultivation."
+      },
+      {
+        "name": "Castor",
+        "type": "Crop",
+        "details": "One of the target edible oilseeds for cultivation."
+      },
+      {
+        "name": "Tamil Nadu Agriculture Budget 2026–27",
+        "type": "FundingSource",
+        "details": "Context for the budget related to the mission."
+      },
+      {
+        "name": "₹58,374.09 crore",
+        "type": "Amount",
+        "details": "Overall Agriculture Budget outlay."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "HAS_FUNDING",
+        "target": "₹203.64 crore",
+        "details": "Total funding for the mission."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Black gram",
+        "details": "Black gram is a target pulse for cultivation."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Red gram",
+        "details": "Red gram is a target pulse for cultivation."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Green gram",
+        "details": "Green gram is a target pulse for cultivation."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Cowpea",
+        "details": "Cowpea is a target pulse for cultivation."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Groundnut",
+        "details": "Groundnut is a target edible oilseed for cultivation."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Sesame",
+        "details": "Sesame is a target edible oilseed for cultivation."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Sunflower",
+        "details": "Sunflower is a target edible oilseed for cultivation."
+      },
+      {
+        "source": "Mission for Self-Sufficiency in Pulses and Edible Oilseeds",
+        "type": "TARGETS",
+        "target": "Castor",
+        "details": "Castor is a target edible oilseed for cultivation."
+      },
+      {
+        "source": "Tamil Nadu Agriculture Budget 2026–27",
+        "type": "HAS_BUDGET_OUTLAY",
+        "target": "₹58,374.09 crore",
+        "details": "Overall Agriculture Budget outlay."
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Tamil Nadu Farm Loan Waiver",
+        "type": "Scheme",
+        "details": "A debt-relief measure for agricultural loans through co-operative societies."
+      },
+      {
+        "name": "Co-operation Department",
+        "type": "Department",
+        "details": "Department responsible for the loan waiver with an allocation of ₹8,028 crore."
+      },
+      {
+        "name": "₹5,932 crore",
+        "type": "Amount",
+        "details": "Total amount of agricultural loans waived."
+      },
+      {
+        "name": "14.43 lakh farmers",
+        "type": "Eligibility",
+        "details": "Number of farmers benefiting from the loan waiver."
+      },
+      {
+        "name": "₹75,000",
+        "type": "Amount",
+        "details": "Threshold for 100% waiver on crop loans."
+      },
+      {
+        "name": "₹35,000",
+        "type": "Amount",
+        "details": "Waiver amount for other farmers covered by the measure."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tamil Nadu Farm Loan Waiver",
+        "type": "HAS_AMOUNT",
+        "target": "₹5,932 crore",
+        "details": "Total amount waived under the scheme."
+      },
+      {
+        "source": "Tamil Nadu Farm Loan Waiver",
+        "type": "BENEFITS",
+        "target": "14.43 lakh farmers",
+        "details": "Number of farmers benefiting from the waiver."
+      },
+      {
+        "source": "Tamil Nadu Farm Loan Waiver",
+        "type": "ADMINISTERED_BY",
+        "target": "Co-operation Department",
+        "details": "Department responsible for administering the waiver."
+      },
+      {
+        "source": "Tamil Nadu Farm Loan Waiver",
+        "type": "HAS_WAIVER_THRESHOLD",
+        "target": "₹75,000",
+        "details": "Threshold for 100% waiver on crop loans."
+      },
+      {
+        "source": "Tamil Nadu Farm Loan Waiver",
+        "type": "HAS_WAIVER_AMOUNT",
+        "target": "₹35,000",
+        "details": "Waiver amount for other farmers."
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Tamil Nadu Millet Mission",
+        "type": "Scheme",
+        "details": "Focused on major millets with an allocation of ₹63.81 crore for 2026–27."
+      },
+      {
+        "name": "Tamil Nadu Minor Millet Mission",
+        "type": "Scheme",
+        "details": "Aims to double the area under minor millets with an allocation of ₹7.61 crore for 2026–27."
+      },
+      {
+        "name": "₹63.81 crore",
+        "type": "Amount",
+        "details": "Allocation for Tamil Nadu Millet Mission for 2026–27."
+      },
+      {
+        "name": "₹7.61 crore",
+        "type": "Amount",
+        "details": "Allocation for Tamil Nadu Minor Millet Mission for 2026–27."
+      },
+      {
+        "name": "4.75 lakh farmers",
+        "type": "Eligibility",
+        "details": "Farmers cultivating millets covered by the Millet Mission."
+      },
+      {
+        "name": "11.80 lakh acres",
+        "type": "Target",
+        "details": "Area covered by the Tamil Nadu Millet Mission."
+      },
+      {
+        "name": "61,750 acres",
+        "type": "Target",
+        "details": "Current cultivation area for the Minor Millet Mission."
+      },
+      {
+        "name": "Major millets",
+        "type": "Crop",
+        "details": "Includes Pearl Millet, Sorghum, and Finger Millet."
+      },
+      {
+        "name": "Minor millets",
+        "type": "Crop",
+        "details": "Includes Little millet, foxtail millet, kodo millet, barnyard millet, and proso millet."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tamil Nadu Millet Mission",
+        "type": "ALLOCATED",
+        "target": "₹63.81 crore",
+        "details": "Funding allocation for 2026–27."
+      },
+      {
+        "source": "Tamil Nadu Minor Millet Mission",
+        "type": "ALLOCATED",
+        "target": "₹7.61 crore",
+        "details": "Funding allocation for 2026–27."
+      },
+      {
+        "source": "Tamil Nadu Millet Mission",
+        "type": "COVERS",
+        "target": "4.75 lakh farmers",
+        "details": "Farmers cultivating millets."
+      },
+      {
+        "source": "Tamil Nadu Millet Mission",
+        "type": "COVERS",
+        "target": "11.80 lakh acres",
+        "details": "Area covered by the mission."
+      },
+      {
+        "source": "Tamil Nadu Minor Millet Mission",
+        "type": "COVERS",
+        "target": "61,750 acres",
+        "details": "Current cultivation area."
+      },
+      {
+        "source": "Tamil Nadu Millet Mission",
+        "type": "INCLUDES",
+        "target": "Major millets",
+        "details": "Focus on major millets."
+      },
+      {
+        "source": "Tamil Nadu Minor Millet Mission",
+        "type": "INCLUDES",
+        "target": "Minor millets",
+        "details": "Focus on minor millets."
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Wild Boar Damage Prevention Scheme",
+        "type": "Scheme",
+        "details": "A scheme to reduce crop damage from wild boars."
+      },
+      {
+        "name": "₹7.35 crore",
+        "type": "Amount",
+        "details": "Total outlay for the scheme for 2026–27."
+      },
+      {
+        "name": "TNAU-developed environment-friendly liquid wild boar repellent",
+        "type": "Technology",
+        "details": "Liquid repellent distributed at subsidised rates over 14,000 acres."
+      },
+      {
+        "name": "₹1.35 crore",
+        "type": "Amount",
+        "details": "Funding from State funds for the liquid repellent."
+      },
+      {
+        "name": "Solar-powered electric fencing",
+        "type": "Technology",
+        "details": "Fencing provided at subsidised rates for 134 farmers."
+      },
+      {
+        "name": "₹2 crore",
+        "type": "Amount",
+        "details": "Funding for solar-powered electric fencing."
+      },
+      {
+        "name": "Seemai Karuvelam removal",
+        "type": "Technology",
+        "details": "Removal of Prosopis juliflora from lands."
+      },
+      {
+        "name": "₹4 crore",
+        "type": "Amount",
+        "details": "Funding from State funds for Seemai Karuvelam removal."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Wild Boar Damage Prevention Scheme",
+        "type": "HAS_FUNDING",
+        "target": "₹7.35 crore",
+        "details": "Total outlay for the scheme."
+      },
+      {
+        "source": "Wild Boar Damage Prevention Scheme",
+        "type": "INCLUDES",
+        "target": "TNAU-developed environment-friendly liquid wild boar repellent",
+        "details": "Part of the scheme to reduce crop damage."
+      },
+      {
+        "source": "TNAU-developed environment-friendly liquid wild boar repellent",
+        "type": "HAS_FUNDING",
+        "target": "₹1.35 crore",
+        "details": "Funding from State funds for the repellent."
+      },
+      {
+        "source": "Wild Boar Damage Prevention Scheme",
+        "type": "INCLUDES",
+        "target": "Solar-powered electric fencing",
+        "details": "Part of the scheme to reduce crop damage."
+      },
+      {
+        "source": "Solar-powered electric fencing",
+        "type": "HAS_FUNDING",
+        "target": "₹2 crore",
+        "details": "Funding for the electric fencing."
+      },
+      {
+        "source": "Wild Boar Damage Prevention Scheme",
+        "type": "INCLUDES",
+        "target": "Seemai Karuvelam removal",
+        "details": "Part of the scheme to reduce crop damage."
+      },
+      {
+        "source": "Seemai Karuvelam removal",
+        "type": "HAS_FUNDING",
+        "target": "₹4 crore",
+        "details": "Funding from State funds for the removal."
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Drop by Drop Water Scheme",
+        "type": "Scheme",
+        "details": "A scheme for efficient water management with financial assistance."
+      },
+      {
+        "name": "Micro Irrigation Scheme",
+        "type": "Scheme",
+        "details": "A Vision Plan measure to improve water use and productivity."
+      },
+      {
+        "name": "₹785 crore",
+        "type": "Amount",
+        "details": "Allocation for the scheme for 2026–27."
+      },
+      {
+        "name": "2,22,794 acres",
+        "type": "Coverage",
+        "details": "Area covered by the scheme."
+      },
+      {
+        "name": "95,000 farmers",
+        "type": "Beneficiary",
+        "details": "Number of farmers benefiting from the scheme."
+      },
+      {
+        "name": "100%",
+        "type": "Eligibility",
+        "details": "Subsidy rate for small and marginal farmers."
+      },
+      {
+        "name": "75%",
+        "type": "Eligibility",
+        "details": "Subsidy rate for other farmers."
+      },
+      {
+        "name": "Efficient utilisation of existing water resources",
+        "type": "Purpose",
+        "details": "Main goal of the scheme."
+      },
+      {
+        "name": "Agriculture Budget",
+        "type": "Other",
+        "details": "Largest single scheme outlay compared to other allocations."
+      },
+      {
+        "name": "₹648.55 crore",
+        "type": "Amount",
+        "details": "Allocation for crop insurance (PMFBY)."
+      },
+      {
+        "name": "₹250 crore",
+        "type": "Amount",
+        "details": "Allocation for certified seeds procurement."
+      },
+      {
+        "name": "Thirukkural 17",
+        "type": "Literary reference",
+        "details": "Reference concerning rain and the sea."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Drop by Drop Water Scheme",
+        "type": "INCLUDES",
+        "target": "Micro Irrigation Scheme",
+        "details": "Micro Irrigation Scheme is part of the Drop by Drop Water Scheme."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "ALLOCATES",
+        "target": "₹785 crore",
+        "details": "Allocation for the Micro Irrigation Scheme."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "COVERS",
+        "target": "2,22,794 acres",
+        "details": "Area covered by the Micro Irrigation Scheme."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "BENEFITS",
+        "target": "95,000 farmers",
+        "details": "Number of farmers benefiting from the Micro Irrigation Scheme."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "SUBSIDY_RATE_FOR",
+        "target": "100%",
+        "details": "Subsidy rate for small and marginal farmers."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "SUBSIDY_RATE_FOR",
+        "target": "75%",
+        "details": "Subsidy rate for other farmers."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "PURPOSE",
+        "target": "Efficient utilisation of existing water resources",
+        "details": "Main goal of the Micro Irrigation Scheme."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "COMPARED_WITH",
+        "target": "₹648.55 crore",
+        "details": "Compared to crop insurance allocation."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "COMPARED_WITH",
+        "target": "₹250 crore",
+        "details": "Compared to certified seeds procurement allocation."
+      },
+      {
+        "source": "Micro Irrigation Scheme",
+        "type": "REFERENCES",
+        "target": "Thirukkural 17",
+        "details": "Literary reference concerning rain and the sea."
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "source": "AgricultureScheme Full.pdf",
+    "entities": [
+      {
+        "name": "Special Scheme for Paddy Seed Production and Distribution",
+        "type": "Scheme",
+        "details": "A State-funded scheme for certified paddy seed production and distribution."
+      },
+      {
+        "name": "₹34.72 crore",
+        "type": "Amount",
+        "details": "Total allocation from State funds for 2026–27."
+      },
+      {
+        "name": "Tamil Nadu State Seed Development Agency",
+        "type": "Organization",
+        "details": "Agency receiving certified paddy seeds from registered seed farms."
+      },
+      {
+        "name": "Agriculture and Farmers Welfare Department",
+        "type": "Department",
+        "details": "Department overseeing the scheme."
+      },
+      {
+        "name": "Farmers",
+        "type": "Eligibility",
+        "details": "Beneficiaries of the scheme who register seed farms or purchase seeds."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Special Scheme for Paddy Seed Production and Distribution",
+        "type": "FUNDED_BY",
+        "target": "₹34.72 crore",
+        "details": "The scheme is funded entirely by State funds."
+      },
+      {
+        "source": "Special Scheme for Paddy Seed Production and Distribution",
+        "type": "OVERSEEN_BY",
+        "target": "Agriculture and Farmers Welfare Department",
+        "details": "The department is responsible for the scheme."
+      },
+      {
+        "source": "Tamil Nadu State Seed Development Agency",
+        "type": "SUPPLIES_TO",
+        "target": "Farmers",
+        "details": "Supplies certified paddy seeds to farmers."
+      }
+    ]
+  }
+]
